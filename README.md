@@ -1,1 +1,0 @@
-![alt text](http://20260519_122038/to/img.png)
