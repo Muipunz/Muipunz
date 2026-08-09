@@ -1,1 +1,1 @@
-![alt text](http:20260519_122038//url/to/img.png)
+![alt text](http://url/to/20260519_122038img.png)
