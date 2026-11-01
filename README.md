@@ -14,7 +14,7 @@
  </div>
 <br>
 <br>
-<div align="center">゜✭・.・✫・゜・。. ✧･ﾟ
+<div align="center">゜✭・.・✫・゜・。. ✧･ﾟ✭・.・✫・゜・。. ✧･ﾟ✭・.・✫・゜・。. ✧･ﾟ✭・.・✫・゜・。. ✧･ﾟ✭・.・✫・゜・。. ✧･ﾟ
 <br>
 <br>
  <div align="center"><img src="https://cdn.phototourl.com/member/2026-11-01-49907994-b074-4a42-8c22-db2d9613b5e1.png" width="100" height="55" alt="idk">
