@@ -3,7 +3,7 @@
 [![tTyping SVG](https://readme-typing-svg.demolab.com?font=Original+Surfer&size=30&pause=1000&color=B57EDC&background=FFFFFF00&center=true&width=800&height=67&lines=Hi+yall!;Wellcome+to+my...+uh+github;I'm+new+w+this+heh%3C3)](https://git.io/typing-svg)
 
 
-   [![ata book](https://img.shields.io/badge/ATA_BOOK-B57EDC?style=flat&center=true&width=1000&height=67)](https://muipun.atabook.org/)
+   [![ata book](https://img.shields.io/badge/ATA_BOOK-B57EDC?style=flat&size=67&center=true&width=1000&height=67)](https://muipun.atabook.org/)
 
 
 
