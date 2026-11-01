@@ -5,11 +5,14 @@
 [![tTyping SVG](https://readme-typing-svg.demolab.com?font=Original+Surfer&size=30&pause=1000&color=B57EDC&background=FFFFFF00&center=true&width=800&height=67&lines=Hi+yall!;Wellcome+to+my...+uh+github;I'm+new+w+this+heh%3C3)](https://git.io/typing-svg)
 <br>
 <br>
- <div align="center"><img src="https://img.shields.io/badge/ATA_BOOK-B57EDC?style=flat" alt="https://muipun.atabook.org/">
- </div>
+ <div align="center"><a href="https://muipun.atabook.org/" target="_blank">
+  <img src="https://img.shields.io/badge/ATA_BOOK-B57EDC?style=flat" alt="sign_plz">
+</a>
 <br>
- <div align="center"><img src="https://img.shields.io/badge/ATL_ACC-5B4FD6?style=flat" alt="https://github.com/littlefattychuddy">
- </div>
+  <br>
+ <div align="center"><a href="https://github.com/littlefattychuddy" target="_blank">
+  <img src="https://img.shields.io/badge/ATL_ACC-5B4FD6?style=flat" alt="sp6">
+</a>
 <br>
 <br>
 <br>
