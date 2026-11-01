@@ -11,7 +11,7 @@
 <br>
   <br>
  <div align="center"><a href="https://github.com/littlefattychuddy" target="_blank">
-  <img src="https://img.shields.io/badge/ATL_ACC-5B4FD6?style=flat" alt="sp6">
+  <img src="https://img.shields.io/badge/ALT_ACC-5B4FD6?style=flat" alt="sp6">
 </a>
 <br>
 <br>
