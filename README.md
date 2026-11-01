@@ -6,12 +6,11 @@
 <br>
 <br>
  <div align="center"><a href="https://muipun.atabook.org/" target="_blank">
-  <img src="https://img.shields.io/badge/ATA_BOOK-B57EDC?style=flat" alt="sign_plz">
+  <img src="https://img.shields.io/badge/ATA_BOOK-B57EDC?style=flat-square" alt="sign_plz">
 </a>
-<br>
-  <br>
- <div align="center"><a href="https://github.com/littlefattychuddy" target="_blank">
-  <img src="https://img.shields.io/badge/ALT_ACC-5B4FD6?style=flat" alt="sp6">
+ <br>
+  <div align="center"><a href="https://github.com/littlefattychuddy" target="_blank">
+  <img src="https://img.shields.io/badge/ALT_ACC-5B4FD6?style=flat-square" alt="sp6">
 </a>
 <br>
 <br>
