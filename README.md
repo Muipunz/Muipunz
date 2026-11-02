@@ -5,13 +5,13 @@
 [![tTyping SVG](https://readme-typing-svg.demolab.com?font=Original+Surfer&size=30&pause=1000&color=B57EDC&background=FFFFFF00&center=true&width=800&height=67&lines=Hi+yall!;Wellcome+to+my...+uh+github;I'm+new+w+this+heh%3C3)](https://git.io/typing-svg)
 <br>
 <br>
- <div align="center"><a href="https://muipun.atabook.org/" target="_blank">
+ <div align="center">⋆ ˚｡⋆୨୧˚ <a href="https://muipun.atabook.org/" target="_blank">
   <img src="https://img.shields.io/badge/ATA_BOOK-B57EDC?style=flat-square" alt="sign_plz">
-</a>
+</a> ˚୨୧⋆｡˚ ⋆
  <br>
-  <div align="center"><a href="https://github.com/littlefattychuddy" target="_blank">
+ <div align="center">⋆.˚ ꒰ <a href="https://github.com/littlefattychuddy" target="_blank">
   <img src="https://img.shields.io/badge/ALT_ACC-5B4FD6?style=flat-square" alt="sp6">
-</a>
+</a> ꒱ ˚.⋆
 <br>
 <br>
 <br>
